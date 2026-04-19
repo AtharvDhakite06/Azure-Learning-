@@ -10,7 +10,7 @@ It's like having a powerful computer somewhere out there on the web that you can
 
 ## What is Cloud Computing ?
 
-Cloud computing is a technology model that involves the delivery of computing services over the internet. Instead of owning and maintaining physical servers and infrastructure, users can access and use computing resources, applications, and storage provided by either third-party service providers (public cloud) or their own organization (private cloud) through the internet. These services are hosted in data centers located around the world.
+Cloud computing is a technology model that involves the **delivery of computing services over the internet.** Instead of **owning** and **maintaining physical servers** and **infrastructure**, users can access and use computing resources, applications, and storage provided by either third-party service providers (public cloud) or their own organization (private cloud) through the internet. These **services are hosted in data centers located around the world.**
 
 In essence, cloud computing can involve both third-party providers (public cloud) and an organization's internal resources (private cloud). The distinction lies in whether the computing resources are shared among multiple customers (public cloud) or dedicated to a single organization (private cloud). The flexibility of cloud computing allows organizations to choose the deployment model that best aligns with their needs and requirements.
 
@@ -29,6 +29,7 @@ In essence, cloud computing can involve both third-party providers (public cloud
 **What It's Like:** Picture having your own personal, private computer space. It's like a digital clubhouse where only you and your team have access. Others can't just drop in.
 
 **Example:** A company using its own server for all its digital needs.
+             Mostly banking and financial companies 
 
 ## Hybrid Cloud:
 
@@ -36,7 +37,11 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 **What It's Like:** It's like having your private computer space, but sometimes you use the shared internet space too. 
 
-**Example:** A business storing sensitive data in its private space but using the public cloud for extra storage or specific tasks.
+**Example:** A business storing sensitive data in its private space (data center) dB for storage due to sensitive information but using the public cloud for extra Servers or specific tasks.
+
+## Multi Cloud :
+companies used of services of AWS and Azure mix of cloud providers.
+
 
 ### In a Nutshell:
 
