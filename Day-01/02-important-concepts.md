@@ -9,8 +9,8 @@ Virtualization = Creating multiple virtual systems on one physical machine
 💡 Example:
 1 powerful computer → behaves like 5 separate computers
 
-**##Hypervisor **
-
+**Hypervisor
+**
 Hypervisor = Software (or firmware) that creates and manages Virtual Machines (VMs)
 
 👉 It sits between:
