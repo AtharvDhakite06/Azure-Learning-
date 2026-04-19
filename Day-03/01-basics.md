@@ -5,7 +5,8 @@ Azure resources are the building blocks of your cloud infrastructure in Microsof
 A resource is an instance of a service 
 
 Workflow of a resource creation 
-<img width="928" height="444" alt="image" src="https://github.com/user-attachments/assets/07c115b9-429c-499f-ae5b-cce7364179dd" />
+<img width="1029" height="480" alt="image" src="https://github.com/user-attachments/assets/bc1c254b-8ae1-4683-980a-e6d1642a4fc7" />
+
 
 
 
